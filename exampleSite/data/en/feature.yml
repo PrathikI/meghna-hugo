@@ -9,8 +9,8 @@ feature:
   feature_item:
   - title: On-The-Go Access
     icon: ti-world
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: 'Whether you''re at school, home, on a plane, etc you will be able to
+      access NeoLearn anywhere with ease. '
   - title: Content Adaptation
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
