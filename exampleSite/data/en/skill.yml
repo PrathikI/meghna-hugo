@@ -10,13 +10,13 @@ skill:
     hopefully in the near future, private education centers catching hold of NeoLearn. '
   image: images/about/company-growth.webp
   skill_item:
-  - name: 'Digital Marketing '
-    percent: 80%
   - name: Analysis
     percent: 70%
-  - name: Content Creation
-    percent: 95%
-  - name: Strategic Placement
-    percent: 75%
   - name: Business Development
     percent: 90%
+  - name: Content Creation
+    percent: 95%
+  - name: 'Digital Marketing '
+    percent: 80%
+  - name: Strategic Placement
+    percent: 75%
