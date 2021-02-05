@@ -5,8 +5,9 @@ service:
   service_item:
   - name: Virtual Communication
     icon: ti-world
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Being able to reach out to use is an important part of effective communication.
+      Any questions or concerns will be addressed by one of our members through an
+      email, phone call, and/or text. '
   - name: Adaptive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
