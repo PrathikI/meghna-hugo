@@ -4,8 +4,9 @@ feature:
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
   title: 'We’re A Digital Content Creation Agency. '
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  content: 'We create and compile learning resources for students who are interested
+    in exploring the realm of math. On top of that, our digital platform pushes for
+    a higher level of independence in the kid''s learning. '
   feature_item:
   - title: On-The-Go Access
     icon: ti-world
