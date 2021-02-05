@@ -13,8 +13,9 @@ feature:
       access NeoLearn anywhere with ease. '
   - title: Content Adaptation
     icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: 'The content we create can be used in a variety of different forms. Whether
+      it is to get ahead, keep up in class, etc, our content can be adapted for your
+      best uses. '
   - title: 'Content Growth '
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
