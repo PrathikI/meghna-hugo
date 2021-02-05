@@ -10,8 +10,7 @@ service:
       email, phone call, and/or text. '
   - name: Adaptive Design
     icon: ti-layout
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Our design for NeoLearn was created so that students '
   - name: 'Digital Marketing '
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
